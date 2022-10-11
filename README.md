@@ -25,8 +25,13 @@ Github
 
 ## 其他视频
 
+视频均通过[you-get](https://github.com/soimort/you-get)下载，视频源文件见Release，cmt.xml文件为弹幕
+
 【10/07京糖事件】禁播片段+京华+冰糖直播回应全过程（留意简介）https://www.bilibili.com/video/BV18G4y1H7A5
 
-- 视频通过[you-get](https://github.com/soimort/you-get)下载
 - 【10-07京糖事件】禁播片段-京华-冰糖直播回应全过程（留意简介） (P1. 张京华直播（先）).mp4：https://github.com/tsuzcx/crystal_sugar/releases/download/r3/P1.mp4
 - 【10-07京糖事件】禁播片段-京华-冰糖直播回应全过程（留意简介） (P2. 冰糖IO直播（后）).mp4：https://github.com/tsuzcx/crystal_sugar/releases/download/r3/P2.mp4
+
+［10月9日凌晨冰糖直播］冰糖回复女友瓜以及给张京华下最后的通知 https://www.bilibili.com/video/BV18g411h7Rf
+
+- https://github.com/tsuzcx/crystal_sugar/releases/download/r4/10.9.mp4
