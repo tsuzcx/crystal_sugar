@@ -4,6 +4,11 @@
 
 关键词：PUA，出轨，日常，癔，嫖娼，overidea，张京华，冰糖IO
 
+相关仓库
+
+- https://github.com/Arukassss/2022bt_vs_jh
+- https://github.com/MossCG/Firework
+
 ## 文件下载直链
 
 Github
