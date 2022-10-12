@@ -8,6 +8,7 @@
 
 - https://github.com/Arukassss/2022bt_vs_jh
 - https://github.com/MossCG/Firework
+- https://github.com/jerriqi/jinghua-Event
 
 ## 文件下载直链
 
